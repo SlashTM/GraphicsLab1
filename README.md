@@ -26,3 +26,8 @@
 
 Дополнительно:
 Дизайн приложения делался с помощью встроенного дизайнера Qt
+
+Дизайн:
+![image](https://user-images.githubusercontent.com/95855221/194262807-b9f00178-1896-4873-9a30-3d0069d30027.png)
+![image](https://user-images.githubusercontent.com/95855221/194262992-04aaa235-88f5-4b68-a516-531f6faada9b.png)
+
